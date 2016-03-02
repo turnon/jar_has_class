@@ -1,0 +1,3 @@
+#!/usr/bin/env ruby
+
+require 'jar_has_class'
